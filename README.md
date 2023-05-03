@@ -10,13 +10,18 @@ The lung dataset is available at [this link](https://drive.google.com/file/d/1DU
 
 
 <p align="center">
-  <img src="./files/compare.png" width="50%"> 
+  <img src="./Fiels/Lung Segmentation result.png" width="50%"> 
 </p>
 <p align="center"> Ground truth VS prediction results</p>
 
 
 
 <p align="center">
-  <img src="./files/lung_re.png" width="50%"> 
+  <img src="./files/Lung IOU.png" width="50%"> 
 </p>
-<p align="center"> Segmentation results comparison </p>
+<p align="center"> Mean IOU score </p>
+
+<p align="center">
+  <img src="./files/Lung loss.png" width="50%"> 
+</p>
+<p align="center"> Mean Losses </p>
