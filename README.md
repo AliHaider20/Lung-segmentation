@@ -1,4 +1,4 @@
-# Lung_Segmentation
+# Lung Segmentation using SOTA Encoders
 
 This directory contains a small lung segmentation dataset and the code for paper [Lung segmentation with SOTA encoders](https://www.researchgate.net/publication/370481635_Lung_Image_segmentation_using_OTSU_thresholding_and_SOTA_Encoders).
 
