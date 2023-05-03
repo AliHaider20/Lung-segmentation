@@ -22,6 +22,6 @@ The lung dataset is available at [this link](https://drive.google.com/file/d/1DU
 <p align="center"> Mean IOU score </p>
 
 <p align="center">
-  <img src="./Files/Lung loss.png" width="50%"> 
+  <img src="./Files/Lung Loss.png" width="50%"> 
 </p>
 <p align="center"> Mean Losses </p>
